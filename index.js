@@ -2,7 +2,7 @@ var fs = require('fs')
 var express = require('express')
 const cors = require('cors')
 
-var data = fs.readFileSync(__dirname +'/content/peixes.json')
+var data = fs.readFileSync('https://raw.githubusercontent.com/Eduarda-Monteblanco/apiStardewValley/main/peixes.json')
 var peixes = JSON.parse(data)
 
 const app = express()
