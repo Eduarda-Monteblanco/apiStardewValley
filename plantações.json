@@ -1,0 +1,696 @@
+{
+	"plantacoes": [
+		{
+			"compra": 70,
+			"colheita": {},
+			"imagem": "amaranth",
+			"index": 299,
+			"name": "Amaranth",
+			"foice": true,
+			"estacao": [
+				"outono"
+			],
+			"venda": 150,
+			"stages": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 700,
+			"colheita": {},
+			"imagem": "ancient_fruit",
+			"index": 499,
+			"name": "Ancient Fruit",
+			"regrow": 7,
+			"estacao": [
+				"primavera",
+				"verao",
+				"outono"
+			],
+			"venda": 750,
+			"stages": [
+				2,
+				7,
+				7,
+				7,
+				5
+			]
+		},
+		{
+			"compra": 30,
+			"colheita": {},
+			"imagem": "artichoke",
+			"index": 489,
+			"name": "Artichoke",
+			"estacao": [
+				"outono"
+			],
+			"venda": 160,
+			"stages": [
+				2,
+				2,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"compra": 20,
+			"colheita": {},
+			"imagem": "beet",
+			"index": 494,
+			"name": "Beet",
+			"estacao": [
+				"outono"
+			],
+			"venda": 100,
+			"stages": [
+				1,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 30,
+			"colheita": {},
+			"imagem": "blue_jazz",
+			"index": 429,
+			"name": "Blue Jazz",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 50,
+			"stages": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 80,
+			"colheita": {
+				"extra_chance": 0.02,
+				"level_increase": 5,
+				"max": 5,
+				"min": 3
+			},
+			"imagem": "blueberry",
+			"index": 481,
+			"name": "Blueberry",
+			"regrow": 4,
+			"estacao": [
+				"verao"
+			],
+			"venda": 80,
+			"stages": [
+				1,
+				3,
+				3,
+				4,
+				2
+			]
+		},
+		{
+			"compra": 50,
+			"colheita": {},
+			"imagem": "bok_choy",
+			"index": 491,
+			"name": "Bok Choy",
+			"estacao": [
+				"outono"
+			],
+			"venda": 80,
+			"stages": [
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 80,
+			"colheita": {},
+			"imagem": "cauliflower",
+			"index": 474,
+			"name": "Cauliflower",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 175,
+			"stages": [
+				1,
+				2,
+				4,
+				4,
+				1
+			]
+		},
+		{
+			"compra": 150,
+			"colheita": {
+				"extra_chance": 0.0,
+				"level_increase": 5,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "corn",
+			"index": 487,
+			"name": "Corn",
+			"regrow": 4,
+			"estacao": [
+				"verao",
+				"outono"
+			],
+			"venda": 50,
+			"stages": [
+				2,
+				3,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"compra": 240,
+			"colheita": {
+				"extra_chance": 0.1,
+				"level_increase": 5,
+				"max": 6,
+				"min": 2
+			},
+			"imagem": "cranberries",
+			"index": 493,
+			"name": "Cranberries",
+			"regrow": 5,
+			"estacao": [
+				"outono"
+			],
+			"venda": 130,
+			"stages": [
+				1,
+				2,
+				1,
+				1,
+				2
+			]
+		},
+		{
+			"compra": 20,
+			"colheita": {
+				"extra_chance": 0.002,
+				"level_increase": 10,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "eggplant",
+			"index": 488,
+			"name": "Eggplant",
+			"regrow": 5,
+			"estacao": [
+				"outono"
+			],
+			"venda": 60,
+			"stages": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 200,
+			"colheita": {},
+			"imagem": "fairy_rose",
+			"index": 425,
+			"name": "Fairy Rose",
+			"estacao": [
+				"outono"
+			],
+			"venda": 290,
+			"stages": [
+				1,
+				4,
+				4,
+				3
+			]
+		},
+		{
+			"compra": 40,
+			"colheita": {},
+			"imagem": "garlic",
+			"index": 476,
+			"name": "Garlic",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 60,
+			"stages": [
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 60,
+			"colheita": {
+				"extra_chance": 0.0,
+				"level_increase": 6,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "grape",
+			"index": 301,
+			"name": "Grape",
+			"regrow": 3,
+			"estacao": [
+				"outono"
+			],
+			"venda": 80,
+			"stages": [
+				1,
+				1,
+				2,
+				3,
+				3
+			],
+			"trellis": true
+		},
+		{
+			"compra": 60,
+			"colheita": {
+				"extra_chance": 0.0,
+				"level_increase": 6,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "green_bean",
+			"index": 473,
+			"name": "Green Bean",
+			"regrow": 3,
+			"estacao": [
+				"primavera"
+			],
+			"venda": 40,
+			"stages": [
+				1,
+				1,
+				1,
+				3,
+				4
+			],
+			"trellis": true
+		},
+		{
+			"compra": 60,
+			"colheita": {
+				"extra_chance": 0.0,
+				"level_increase": 6,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "hops",
+			"index": 302,
+			"name": "Hops",
+			"regrow": 1,
+			"estacao": [
+				"verao"
+			],
+			"venda": 25,
+			"stages": [
+				1,
+				1,
+				2,
+				3,
+				4
+			],
+			"trellis": true
+		},
+		{
+			"compra": 40,
+			"colheita": {
+				"extra_chance": 0.03,
+				"level_increase": 5,
+				"max": 1,
+				"min": 1
+			},
+			"imagem": "hot_pepper",
+			"index": 482,
+			"name": "Hot Pepper",
+			"regrow": 3,
+			"estacao": [
+				"verao"
+			],
+			"venda": 40,
+			"stages": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 70,
+			"colheita": {},
+			"imagem": "kale",
+			"index": 477,
+			"name": "Kale",
+			"foice": true,
+			"estacao": [
+				"primavera"
+			],
+			"venda": 110,
+			"stages": [
+				1,
+				2,
+				2,
+				1
+			]
+		},
+		{
+			"compra": 80,
+			"colheita": {},
+			"imagem": "melon",
+			"index": 479,
+			"name": "Melon",
+			"estacao": [
+				"verao"
+			],
+			"venda": 250,
+			"stages": [
+				1,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"compra": 20,
+			"colheita": {},
+			"imagem": "parsnip",
+			"index": 472,
+			"name": "Parsnip",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 35,
+			"stages": [
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 100,
+			"colheita": {},
+			"imagem": "poppy",
+			"index": 453,
+			"name": "Poppy",
+			"estacao": [
+				"verao"
+			],
+			"venda": 140,
+			"stages": [
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 50,
+			"colheita": {
+				"extra_chance": 0.2,
+				"level_increase": 8,
+				"max": 2,
+				"min": 1
+			},
+			"imagem": "potato",
+			"index": 475,
+			"name": "Potato",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 80,
+			"stages": [
+				1,
+				1,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"compra": 100,
+			"colheita": {},
+			"imagem": "pumpkin",
+			"index": 490,
+			"name": "Pumpkin",
+			"estacao": [
+				"outono"
+			],
+			"venda": 320,
+			"stages": [
+				1,
+				2,
+				3,
+				4,
+				3
+			]
+		},
+		{
+			"compra": 40,
+			"colheita": {},
+			"imagem": "radish",
+			"index": 484,
+			"name": "Radish",
+			"estacao": [
+				"verao"
+			],
+			"venda": 90,
+			"stages": [
+				2,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"compra": 100,
+			"colheita": {},
+			"imagem": "red_cabbage",
+			"index": 485,
+			"name": "Red Cabbage",
+			"estacao": [
+				"verao"
+			],
+			"venda": 260,
+			"stages": [
+				2,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 100,
+			"colheita": {},
+			"imagem": "rhubarb",
+			"index": 478,
+			"name": "Rhubarb",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 220,
+			"stages": [
+				2,
+				2,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"compra": 400,
+			"colheita": {},
+			"imagem": "starfruit",
+			"index": 486,
+			"name": "Starfruit",
+			"estacao": [
+				"verao"
+			],
+			"venda": 800,
+			"stages": [
+				2,
+				3,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"compra": 100,
+			"colheita": {
+				"extra_chance": 0.02,
+				"level_increase": 5,
+				"max": 1,
+				"min": 1
+			},
+			"imagem": "strawberry",
+			"index": 745,
+			"name": "Strawberry",
+			"regrow": 4,
+			"estacao": [
+				"primavera"
+			],
+			"venda": 120,
+			"stages": [
+				1,
+				1,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 50,
+			"colheita": {},
+			"imagem": "verao_spangle",
+			"index": 455,
+			"name": "verao Spangle",
+			"estacao": [
+				"verao"
+			],
+			"venda": 90,
+			"stages": [
+				1,
+				2,
+				3,
+				2
+			]
+		},
+		{
+			"compra": 125,
+			"colheita": {},
+			"imagem": "sunflower",
+			"index": 431,
+			"name": "Sunflower",
+			"note": "Cheapest at JojaMart",
+			"estacao": [
+				"outono"
+			],
+			"venda": 80,
+			"stages": [
+				1,
+				2,
+				3,
+				2
+			]
+		},
+		{
+			"compra": 1000,
+			"colheita": {},
+			"imagem": "sweet_gem_berry",
+			"index": 347,
+			"name": "Sweet Gem Berry",
+			"estacao": [
+				"outono"
+			],
+			"venda": 3000,
+			"stages": [
+				2,
+				4,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"compra": 50,
+			"colheita": {
+				"extra_chance": 0.05,
+				"level_increase": 6,
+				"max": 1,
+				"min": 1
+			},
+			"imagem": "tomato",
+			"index": 480,
+			"name": "Tomato",
+			"regrow": 4,
+			"estacao": [
+				"verao"
+			],
+			"venda": 60,
+			"stages": [
+				2,
+				2,
+				2,
+				2,
+				3
+			]
+		},
+		{
+			"compra": 20,
+			"colheita": {},
+			"imagem": "tulip",
+			"index": 427,
+			"name": "Tulip",
+			"estacao": [
+				"primavera"
+			],
+			"venda": 30,
+			"stages": [
+				1,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"compra": 10,
+			"colheita": {},
+			"imagem": "wheat",
+			"index": 483,
+			"name": "Wheat",
+			"foice": true,
+			"estacao": [
+				"verao",
+				"outono"
+			],
+			"venda": 25,
+			"stages": [
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"compra": 60,
+			"colheita": {},
+			"imagem": "yam",
+			"index": 492,
+			"name": "Yam",
+			"estacao": [
+				"outono"
+			],
+			"venda": 160,
+			"stages": [
+				1,
+				3,
+				3,
+				3
+			]
+		}
+	]
+}
