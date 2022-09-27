@@ -1,4 +1,4 @@
-[
+{"peixes":[
   {
     "Imagem": "https://raw.githubusercontent.com/Eduarda-Monteblanco/apiStardewValley/main/fish/Pufferfish.png",
     "Nome": "Baiacu",
@@ -572,3 +572,4 @@
     "Clima": "Qualquer"
   }
  ]
+}
